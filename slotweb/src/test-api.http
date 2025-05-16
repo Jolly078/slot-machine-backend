@@ -1,8 +1,0 @@
-### Spin Slot API Test
-POST http://localhost:8080/spin
-Content-Type: application/json
-
-{
-  "bet": 50,
-  "balance": 150
-}
